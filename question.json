@@ -1,0 +1,30 @@
+[
+    {
+        "question": "what is the capital of india ? ",
+        "choice1": "mumbai",
+        "choice2": "agra",
+        "choice3": "vanaras",
+        "choice4": "delhi",
+        "answer":  4
+    },
+
+    {
+
+        "question": "what is the prime minister of india ? ",
+        "choice1": "narender modi",
+        "choice2": "rajnath",
+        "choice3": "amit shah",
+        "choice4": "atawale",
+        "answer": 1
+    },
+
+    {
+
+        "question": "what is the currency of india ? ",
+        "choice1": "dinar",
+        "choice2": "thai",
+        "choice3": "dong",
+        "choice4": "rupee",
+        "answer": 4
+    }
+]
